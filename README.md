@@ -1,2 +1,2 @@
 # main
-Waves main website
+Test website for http://wavesswimschool.co.uk/
