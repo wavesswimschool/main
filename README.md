@@ -1,7 +1,6 @@
 #Hi Mum!
 
-Test website for http://wavesswimschool.co.uk/
-This is just a first draft, and the existence of these pages doesn't affect your current (JustHost) site in any way. Have a look through, and see if there are any sections missing, or any features you'd like changed. First glance everything seems to be in order :) Hosting sites on github is completely free.
+Test website for Waves Swim School. This is just a first draft, and the existence of these pages doesn't affect your current ([JustHost](http://wavesswimschool.co.uk/)) site in any way. Have a look through, and see if there are any sections missing, or any features you'd like changed. First glance everything seems to be in order :) Hosting sites on GitHub is completely free.
 
 - Home: [wavesswim.github.io/main](https://wavesswim.github.io/main/index)
 - Mission Statement: [wavesswim.github.io/main/mission](https://wavesswim.github.io/main/mission)
@@ -18,6 +17,6 @@ This is just a first draft, and the existence of these pages doesn't affect your
 - Code of conduct: [wavesswim.github.io/main/conduct](https://wavesswim.github.io/main/conduct)
 - Terms and conditions: [wavesswim.github.io/main/terms-conditions](https://wavesswim.github.io/main/terms-conditions)
 - Data protection: [wavesswim.github.io/main/data-protection](https://wavesswim.github.io/main/data-protection)
-- Take a look at the hidden [Elements](https://wavesswim.github.io/main/X-elements) page - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. Don't worry too much about this for now (this page is not visible to the public). 
+- Take a look at [Elements](https://wavesswim.github.io/main/X-elements) - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. Don't worry too much about this for now (this page is not visible to the public). 
 
 Finally, the current webpage link is [wavesswim.github.io/main](https://wavesswim.github.io/main/index) but we can most likely alter this to make it more memorable.
