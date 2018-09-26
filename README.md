@@ -2,7 +2,7 @@
 
 Test website for Waves Swim School. This is just a first draft, and the existence of these pages doesn't affect your current ([JustHost](http://wavesswimschool.co.uk/)) site in any way. Have a look through, and see if there are any sections missing, or any features you'd like changed. First glance everything seems to be in order :) Hosting sites on GitHub is completely free.
 
-- Home: [wavesswim.co.uk](wavesswim.co.uk/index)
+- Home: [wavesswim.co.uk](http://wavesswim.co.uk/)
 - Mission Statement: [wavesswim.co.uk/mission](https://wavesswim.co.uk/mission)
 - Term Dates: [wavesswim.co.uk/term-dates](https://wavesswim.co.uk/term-dates)
 - Timetables: [wavesswim.co.uk/timetables](https://wavesswim.co.uk/timetables)
