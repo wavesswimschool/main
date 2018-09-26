@@ -2,21 +2,21 @@
 
 Test website for Waves Swim School. This is just a first draft, and the existence of these pages doesn't affect your current ([JustHost](http://wavesswimschool.co.uk/)) site in any way. Have a look through, and see if there are any sections missing, or any features you'd like changed. First glance everything seems to be in order :) Hosting sites on GitHub is completely free.
 
-- Home: [wavesswim.github.io/main](https://wavesswim.github.io/main/index)
-- Mission Statement: [wavesswim.github.io/main/mission](https://wavesswim.github.io/main/mission)
-- Term Dates: [wavesswim.github.io/main/term-dates](https://wavesswim.github.io/main/term-dates)
-- Timetables: [wavesswim.github.io/main/timetables](https://wavesswim.github.io/main/timetables)
-- Payments & Fees: [wavesswim.github.io/main/payments](https://wavesswim.github.io/main/payments)
-- Booking Forms: [wavesswim.github.io/main/booking](https://wavesswim.github.io/main/booking)
-- Contact Waves: [wavesswim.github.io/main/contact](https://wavesswim.github.io/main/contact)
-- Job Vacancies: [wavesswim.github.io/main/jobs](https://wavesswim.github.io/main/jobs)
-- Feedback: [wavesswim.github.io/main/feedback](https://wavesswim.github.io/main/feedbacak)
-- Equality & Diversity: [wavesswim.github.io/main/equality](https://wavesswim.github.io/main/equality)
-- Health & Safety: [wavesswim.github.io/main/health](https://wavesswim.github.io/main/health)
-- Safeguarding and Protecting Children: [wavesswim.github.io/main/protecting](https://wavesswim.github.io/main/protecting)
-- Code of conduct: [wavesswim.github.io/main/conduct](https://wavesswim.github.io/main/conduct)
-- Terms and conditions: [wavesswim.github.io/main/terms-conditions](https://wavesswim.github.io/main/terms-conditions)
-- Data protection: [wavesswim.github.io/main/data-protection](https://wavesswim.github.io/main/data-protection)
-- Take a look at [Elements](https://wavesswim.github.io/main/X-elements) - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. Don't worry too much about this for now (this page is not visible to the public). 
+- Home: [wavesswim.co.uk](https://wavesswim.co.uk/index)
+- Mission Statement: [wavesswim.co.uk/mission](https://wavesswim.co.uk/mission)
+- Term Dates: [wavesswim.co.uk/term-dates](https://wavesswim.co.uk/term-dates)
+- Timetables: [wavesswim.co.uk/timetables](https://wavesswim.co.uk/timetables)
+- Payments & Fees: [wavesswim.co.uk/payments](https://wavesswim.co.uk/payments)
+- Booking Forms: [wavesswim.co.uk/booking](https://wavesswim.co.uk/booking)
+- Contact Waves: [wavesswim.co.uk/contact](https://wavesswim.co.uk/contact)
+- Job Vacancies: [wavesswim.co.uk/jobs](https://wavesswim.co.uk/jobs)
+- Feedback: [wavesswim.co.uk/feedback](https://wavesswim.co.uk/feedbacak)
+- Equality & Diversity: [wavesswim.co.uk/equality](https://wavesswim.co.uk/equality)
+- Health & Safety: [wavesswim.co.uk/health](https://wavesswim.co.uk/health)
+- Safeguarding and Protecting Children: [wavesswim.co.uk/protecting](https://wavesswim.co.uk/protecting)
+- Code of conduct: [wavesswim.co.uk/conduct](https://wavesswim.co.uk/conduct)
+- Terms and conditions: [wavesswim.co.uk/terms-conditions](https://wavesswim.co.uk/terms-conditions)
+- Data protection: [wavesswim.co.uk/data-protection](https://wavesswim.co.uk/data-protection)
+- Take a look at [Elements](https://wavesswim.co.uk/X-elements) - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. Don't worry too much about this for now (this page is not visible to the public). 
 
-Finally, the current webpage link is [wavesswim.github.io/main](https://wavesswim.github.io/main/index) but we can most likely alter this to make it more memorable.
+Finally, the current webpage link is [wavesswim.co.uk](https://wavesswim.co.uk/index) but we can most likely alter this to make it more memorable.
