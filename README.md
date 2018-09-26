@@ -18,5 +18,3 @@ Test website for Waves Swim School. This is just a first draft, and the existenc
 - Terms and conditions: [wavesswim.co.uk/terms-conditions](https://wavesswim.co.uk/terms-conditions)
 - Data protection: [wavesswim.co.uk/data-protection](https://wavesswim.co.uk/data-protection)
 - Take a look at [Elements](https://wavesswim.co.uk/X-elements) - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. Don't worry too much about this for now (this page is not visible to the public). 
-
-Finally, the current webpage link is [wavesswim.co.uk](https://wavesswim.co.uk/index) but we can most likely alter this to make it more memorable.
