@@ -15,4 +15,4 @@ GitHub repository for Waves Swim School. See below for a list of website pages, 
 - Code of conduct: [conduct](https://wavesswimschool.co.uk/conduct)
 - Terms and conditions: [terms-conditions](https://wavesswimschool.co.uk/terms-conditions)
 - Data protection: [data-protection](https://wavesswimschool.co.uk/data-protection)
-- Take a look at [elements](https://wavesswimschool.co.uk/X-elements) - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. This page is not visible to the public.
+- Take a look at [elements](https://wavesswimschool.co.uk/elements) - if you scroll down you can see there is room for images and blog posts to be added to the site, plus a range of other features. This page is not visible to the public.
