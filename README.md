@@ -1,3 +1,5 @@
+ARCHIVED
+
 Staging site for Waves Swim School. See below for a list of website pages, and their associated filenames.
 
 - Home: [index](https://wavesswimschool.github.io)
